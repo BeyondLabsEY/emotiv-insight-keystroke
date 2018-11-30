@@ -1,0 +1,15 @@
+{
+  "name": "cortex-starter",
+  "version": "1.0.0",
+  "description": "Emotiv Cortex Starter Project",
+  "main": "index.js",
+  "scripts": {
+    "events": "node src/events.js"
+  },
+  "author": "Sam Gentle <sam@samgentle.com>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "robotjs": "^0.5.1",
+    "ws": "^3.1.0"
+  }
+}
